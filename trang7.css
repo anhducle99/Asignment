@@ -361,6 +361,7 @@ a {
     }
     #container {
         max-width: 100%;
+        text-align: center;
     }
     .header-grid-layout {
         display: grid;
